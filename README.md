@@ -97,7 +97,8 @@ endmodule
 
 ### Nclaunch Work Library Window
 
-![WhatsApp Image 2025-11-05 at 11 56 56_21be8faf](https://github.com/user-attachments/assets/c32195ae-401c-4f24-b3a6-87d008efcf0e)
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/7262ed96-dd16-49dc-8099-d8ab43d39d83" />
+
 
 
 ### Simulation Waveforms
